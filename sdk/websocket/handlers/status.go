@@ -5,8 +5,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket/subscribers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket/subscribers"
 )
 
 func NewStatusHandler(messageMapper sdk.StatusMapper, handlers subscribers.Status) *statusHandler {

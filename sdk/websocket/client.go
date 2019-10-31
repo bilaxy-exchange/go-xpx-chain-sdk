@@ -15,9 +15,9 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/pkg/errors"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
-	hdlrs "github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket/handlers"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket/subscribers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
+	hdlrs "github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket/handlers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket/subscribers"
 )
 
 const pathWS = "ws"

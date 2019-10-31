@@ -6,11 +6,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/mocks/mappers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/mocks/mappers"
 
-	mocksSubscribers "github.com/proximax-storage/go-xpx-chain-sdk/mocks/subscribers"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket/subscribers"
+	mocksSubscribers "github.com/bilaxy-exchange/go-xpx-chain-sdk/mocks/subscribers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket/subscribers"
 )
 
 func Test_statusHandler_Handle(t *testing.T) {

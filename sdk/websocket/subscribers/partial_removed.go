@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
 )
 
 type (

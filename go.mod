@@ -1,4 +1,4 @@
-module github.com/proximax-storage/go-xpx-chain-sdk
+module github.com/bilaxy-exchange/go-xpx-chain-sdk
 
 go 1.13
 

@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
 )
 
 var (

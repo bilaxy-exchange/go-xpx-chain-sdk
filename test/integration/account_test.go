@@ -10,7 +10,7 @@ import (
 	"github.com/proximax-storage/go-xpx-utils/tests"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
 )
 
 func TestAddressService_GetAccountNames(t *testing.T) {

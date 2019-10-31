@@ -6,8 +6,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket/handlers"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket/handlers"
 )
 
 func NewRouter(uid string, publisher MessagePublisher, topicHandlers TopicHandlersStorage) Router {

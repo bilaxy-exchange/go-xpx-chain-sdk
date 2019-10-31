@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk"
-	"github.com/proximax-storage/go-xpx-chain-sdk/sdk/websocket"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/sdk/websocket"
 )
 
 var (

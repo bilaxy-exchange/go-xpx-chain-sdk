@@ -18,7 +18,7 @@ import (
 	"github.com/google/flatbuffers/go"
 	"github.com/proximax-storage/go-xpx-utils"
 	"github.com/proximax-storage/go-xpx-crypto"
-	"github.com/proximax-storage/go-xpx-chain-sdk/transactions"
+	"github.com/bilaxy-exchange/go-xpx-chain-sdk/transactions"
 )
 
 type Transaction interface {
