@@ -23,7 +23,7 @@ const (
 	accountsPropertiesRoute       = "/account/properties"
 	multisigAccountRoute          = "/account/%s/multisig"
 	multisigAccountGraphInfoRoute = "/account/%s/multisig/graph"
-	transactionsByAccountRoute    = "/account/%s/%s"
+	transactionsByAccountRoute    = "/account/%s%s"
 	accountTransactionsRoute      = "/transactions"
 	incomingTransactionsRoute     = "/transactions/incoming"
 	outgoingTransactionsRoute     = "/transactions/outgoing"
